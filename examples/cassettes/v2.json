@@ -1,0 +1,14 @@
+{
+  "14747f430096cc6e": "{\"category\": \"other\", \"priority\": \"low\", \"summary\": \"No actual request\"}",
+  "179edcfffac8c1b6": "{\"category\": \"account_access\", \"priority\": \"high\", \"summary\": \"2FA code not arriving\"}",
+  "3ab2154760517b37": "{\"category\": \"account_access\", \"priority\": \"high\", \"summary\": \"Account locked out\"}",
+  "45815f89febe42bc": "{\"category\": \"feature_request\", \"priority\": \"low\", \"summary\": \"Dark mode request\"}",
+  "5a0f35c7ee5bd4f4": "{\"category\": \"billing\", \"priority\": \"high\", \"summary\": \"Duplicate March charge\"}",
+  "699eb27f4b6863e7": "{\"category\": \"feature_request\", \"priority\": \"low\", \"summary\": \"Dark mode request\"}",
+  "73249d98b32c1d5a": "{\"category\": \"billing\", \"priority\": \"high\", \"summary\": \"Duplicate March charge\"}",
+  "757b67e81b126998": "{\"category\": \"bug\", \"priority\": \"normal\", \"summary\": \"PDF export missing logo\"}",
+  "8fc3f33760e0e5d9": "{\"category\": \"bug\", \"priority\": \"normal\", \"summary\": \"PDF export missing logo\"}",
+  "b5c2a83cfcdf706a": "{\"category\": \"account_access\", \"priority\": \"high\", \"summary\": \"Account locked out\"}",
+  "e77d9e738f9e46b3": "{\"category\": \"other\", \"priority\": \"low\", \"summary\": \"No actual request\"}",
+  "f421bd347819c3ce": "{\"category\": \"account_access\", \"priority\": \"high\", \"summary\": \"2FA code not arriving\"}"
+}
